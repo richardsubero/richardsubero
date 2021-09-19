@@ -1,0 +1,16 @@
+.box_uno { margin: 0; padding: 0; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
+
+.box_dos { margin: 0; padding: 0; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap-reverse; flex-wrap: wrap-reverse; }
+
+.style1 { background-color: #dbedd5; width: 360px; }
+
+.style2 { background-color: #f5f5de; width: 310px; }
+
+* { margin: 0; padding: 0; list-style: none; }
+
+h1 { color: hotpink; }
+
+.aline { text-align: center; color: deeppink; }
+
+.bi { vertical-align: -.125em; fill: currentColor; }
+/*# sourceMappingURL=styles.css.map */

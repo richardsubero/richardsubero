@@ -1,0 +1,32 @@
+@import "accesorios";
+@import "contacto";
+@import "productos";
+@import "quiensomos";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1 {
+    color: hotpink;
+}
+
+
+
+.aline {
+    text-align: center;
+    color: deeppink;
+
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+
+
+
